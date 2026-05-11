@@ -6,3 +6,4 @@ echo "espace disque :"
 df -h /
 echo "memoire :"
 free -h 
+echo "script execute avec succes"
